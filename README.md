@@ -1,4 +1,4 @@
-# Analytics-Workshop5-notebooks
+# Analytics Workshop 5
 
 ## Schedule
 
